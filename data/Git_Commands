@@ -1,13 +1,13 @@
 #Usefull Git Commands
 
-git --version
-git help config
-git config user.name <name>
-git config user.email <email>
-git init
-git status
-git add (or) git add -A
-git commit -m ""
-git clone <repo-from> <where-to>
-git pull origin <branch/master>
-git push origin <branch/master>
+git --version //to know the version of git we are using
+git help config //for help related documents
+git config user.name <name> //to set the name of the user committing
+git config user.email <email> //to set the email of the user committing
+git init //initiating the Git
+git status //getting the status of the files that are recently updated
+git add (or) git add -A //adding the files to staging
+git commit -m "" //committing the file to local with a commit message
+git clone <repo-from> <where-to> // from the repo from a remote file
+git pull origin <branch/master> //it is a best practice to pull from the branch that we are working instead of pushing
+git push origin <branch/master> //pushing the changes to remote
