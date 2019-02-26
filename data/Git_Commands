@@ -11,3 +11,9 @@ git commit -m "" //committing the file to local with a commit message
 git clone <repo-from> <where-to> // from the repo from a remote file
 git pull origin <branch/master> //it is a best practice to pull from the branch that we are working instead of pushing
 git push origin <branch/master> //pushing the changes to remote
+git branch
+git branch -a
+git branch <name>
+git checkout <branch name>
+git branch --merged
+git merge <branch>
