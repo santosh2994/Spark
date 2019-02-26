@@ -1,0 +1,13 @@
+#Usefull Git Commands
+
+git --version
+git help config
+git config user.name <name>
+git config user.email <email>
+git init
+git status
+git add (or) git add -A
+git commit -m ""
+git clone <repo-from> <where-to>
+git pull origin <branch/master>
+git push origin <branch/master>
