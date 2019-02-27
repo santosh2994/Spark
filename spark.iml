@@ -11,6 +11,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="scala-sdk-2.11.12" level="application" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.apache.spark:spark-mllib_2.11:2.3.2" level="project" />
     <orderEntry type="library" name="Maven: org.scala-lang.modules:scala-parser-combinators_2.11:1.0.4" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.apache.spark:spark-graphx_2.11:2.3.2" level="project" />
@@ -181,6 +182,5 @@
     <orderEntry type="library" name="Maven: com.carrotsearch:hppc:0.7.2" level="project" />
     <orderEntry type="library" name="Maven: com.vlkan:flatbuffers:1.2.0-3f79e055" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.spark:spark-streaming_2.11:2.3.2" level="project" />
-    <orderEntry type="library" name="scala-sdk-2.11.12" level="application" />
   </component>
 </module>
