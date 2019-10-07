@@ -1,0 +1,49 @@
+Hello!
+------
+This documentation explains how to cut,copy and paste data into vim editor.
+--------------------------------------------------------------------------
+hi this is santosh!!
+
+this is the notes for cutting, copying, pasting the code using the vim editor in the linux.
+1. cutting
+2. copying
+3. pasting
+
+1. cutting:
+	a. initially move to the VISUAL LINE mode using ESC -> (SHIFT+V)
+	b. before doing step-a place the cursor on the line you wanna delete.
+	c. move the cursor to select the data you want.
+	d. press 'd' key to delete those lines.
+
+2. copying:
+	a. repeat 1-> (a,b,c) steps
+	b. press y for copying the data
+
+3. pasting:
+	a. repeat 2-> a step
+	b. press p key to paste the data.
+
+Have a nice day..!!
+
+GIT Commands:
+-------------
+1. cloning the data from repo
+2. adding it to stage
+3. commit the changes
+4. push the code
+
+1. cloning:
+----------
+git clone <repo-details>
+
+2. staging the data:
+--------------------
+git add . 
+
+3. commiting the code:
+---------------------
+git commit
+
+4. push the changes:
+-------------------
+git push 
